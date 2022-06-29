@@ -1,0 +1,20 @@
+{
+    "schema_version": 2,
+    "timestamp": 1656477724,
+    "workspace": {
+        "0": [
+            [
+                {
+                    "panes": [
+                        {
+                            "type": "term",
+                            "directory": "/home/tamim"
+                        }
+                    ],
+                    "label": "tamim@inspiron-3521: ~",
+                    "custom_label_set": false
+                }
+            ]
+        ]
+    }
+}
